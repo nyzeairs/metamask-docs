@@ -165,7 +165,7 @@ const guideSidebar = [
       'snaps',
       'snaps-rpc-api',
       'snaps-development-guide',
-      'snaps-tools'
+      'snaps-tools',
     ],
   },
   {
